@@ -30,10 +30,19 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+   <!-- django CMS -->
+   {% render_block "css" %}
+
+   <!-- Aldryn -->
+   {{ ALDRYN_SNAKE.render_head }}
+	
 </head>
 
 <body>
 
+	<!-- django CMS Toolbar -->
+    {% cms_toolbar %}
+	
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         <div class="container-fluid">
@@ -145,8 +154,15 @@
     <script src="{% static 'js/contact_me.js' %}"></script>
 
     <!-- Theme JavaScript -->
+	
     <script src="{% static 'js/clean-blog.min.js' %}"></script>
 
+	<!-- django CMS -->
+    {% render_block "js" %}
+
+    <!-- Aldryn -->
+    {{ ALDRYN_SNAKE.render_tail }}
+	
 </body>
 
 </html>
