@@ -226,7 +226,6 @@ textarea {
 	}
     a:visited {
         text-decoration: none;
-		text-decoration-color: red;
     }
 
     a[href]:after {
