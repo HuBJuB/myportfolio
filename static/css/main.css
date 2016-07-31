@@ -225,7 +225,7 @@ textarea {
 	text-decoration: none;	
 	}
     a:visited {
-        text-decoration: underline;
+        text-decoration: none;
 		text-decoration-color: red;
     }
 
