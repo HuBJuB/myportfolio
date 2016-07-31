@@ -221,12 +221,9 @@ textarea {
         text-shadow: none !important;
     }
 
-    a {
-	text-decoration: none;	
+    a, a:hover, a:visited {
+    text-decoration: none;
 	}
-    a:visited {
-        text-decoration: none;
-    }
 
     a[href]:after {
         content: " (" attr(href) ")";
