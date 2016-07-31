@@ -10,6 +10,7 @@ INSTALLED_ADDONS = [
     'aldryn-background-image',
     'aldryn-bootstrap3',
     'aldryn-newsblog',
+    'aldryn-style',
     # </INSTALLED_ADDONS>
 ]
 

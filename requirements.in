@@ -7,4 +7,5 @@ https://control.aldryn.com/api/v1/apps/serve/aldryn-devsync/1.1.0/ee6faba8-7ab7-
 https://control.aldryn.com/api/v1/apps/serve/aldryn-background-image/0.1.1/9e382593-2767-47af-82da-b586b1b0a8ea/aldryn-background-image-0.1.1.tar.gz#egg=aldryn-background-image==0.1.1
 https://control.aldryn.com/api/v1/apps/serve/aldryn-bootstrap3/1.1.1/94067d87-ce6e-4187-809b-cbd174161d63/aldryn-bootstrap3-1.1.1.tar.gz#egg=aldryn-bootstrap3==1.1.1.0
 https://control.aldryn.com/api/v1/apps/serve/aldryn-newsblog/1.2.4.1/8354bba2-c634-4a1e-8a6e-9af0e1941872/aldryn-newsblog-1.2.4.1.tar.gz#egg=aldryn-newsblog==1.2.4.1
+https://control.aldryn.com/api/v1/apps/serve/aldryn-style/1.0.1/d5f209d4-6084-4e93-a538-e27b50e22b09/aldryn-style-1.0.1.tar.gz#egg=aldryn-style==1.0.1
 # </INSTALLED_ADDONS>
