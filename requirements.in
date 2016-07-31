@@ -1,3 +1,4 @@
 # <INSTALLED_ADDONS>  # Warning: text inside the INSTALLED_ADDONS tags is auto-generated. Manual changes will be overwritten.
+https://control.aldryn.com/api/v1/apps/serve/aldryn-django/1.8.14.0/e5b79f14-c4c6-4633-9d44-435b418adb58/aldryn-django-1.8.14.0.tar.gz#egg=aldryn-django==1.8.14.0
 https://control.aldryn.com/api/v1/apps/serve/aldryn-sso/1.1.3/905f9768-5a25-42f0-9c95-f54af14cd2fb/aldryn-sso-1.1.3.tar.gz#egg=aldryn-sso==1.1.3
 # </INSTALLED_ADDONS>
