@@ -6,6 +6,7 @@ INSTALLED_ADDONS = [
     'aldryn-django',
     'aldryn-sso',
     'aldryn-django-cms',
+    'aldryn-devsync',
     # </INSTALLED_ADDONS>
 ]
 
