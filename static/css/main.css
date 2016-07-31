@@ -221,9 +221,12 @@ textarea {
         text-shadow: none !important;
     }
 
-    a,
+    a{
+	text-decoration: none;	
+	}
     a:visited {
         text-decoration: underline;
+		text-decoration-color: red;
     }
 
     a[href]:after {
